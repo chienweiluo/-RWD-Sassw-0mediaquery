@@ -1,4 +1,4 @@
-# -RWD-Sassw-0mediaquery
+# -RWD-Sassw/0mediaquery
 breakpoint with calc/width/max-width/min-width
 
     @mixin break($bp: 400px, $ltbp: 100%, $gtbp: 50%)
